@@ -112,6 +112,8 @@ Create a screencast of your assignment:
 
 * Demonstrate running your code to provision the VM (`v up`), running your customization and post-configuration steps, and ssh (`v ssh`) and a starting your App. Demonstrate your app running on your browser. Demonstrate any extra requirements fulfilled.
 
+ - The screencast to provision VM [**V ssh and up**] can be found [here](https://www.youtube.com/watch?v=HQj6QN1jx6w) <br>
+ 
 For guidelines, software, and recommendations see [Screencasts](Screencasts.md).
 
 ## Evaluation
